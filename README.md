@@ -1,4 +1,4 @@
 # README
 test github
-git conflict
+git conflicts
 
